@@ -1,21 +1,108 @@
-# 💫 About Me:
-Hi there, This is Kartikeya Singh<br>A Computer Science student at IIIT Tiruchirappalli, exploring tech and innovation.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=k-arsyn.k-arsyn" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kartikeya+Singh!;+Computer+Science+Student+@+IIIT+Trichy;" />
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/singhkartikeya28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sengarkartikeya028@gmail.com) 
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=k-arsyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=k-arsyn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-arsyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+ 
+ 🔭 I’m currently **a Computer Science student at IIIT Tiruchirappalli**
+ 
+ 🌱 I’m currently learning **System Design, Spring Boot, Docker & Cloud**
 
----
-[![](https://visitcount.itsvg.in/api?id=k-arsyn&icon=0&color=0)](https://visitcount.itsvg.in)
+ ⚡ Fun fact **I enjoy solving DSA problems and building scalable systems**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+<div align="center"> 
+  <!-- 🔴 CHANGE EMAIL IF NEEDED -->
+  <a href="mailto:sengarkartikeya028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <!-- 🔴 CHANGE LINKEDIN URL IF NEEDED -->
+  <a href="https://linkedin.com/in/singhkartikeya28" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- 🔴 ADD YOUR PORTFOLIO LINK HERE -->
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,javascript,react,nodejs,express,spring,mysql,postgres,mongodb,redis,aws,gcp,firebase,git,github,docker" />
+</div>
+
+<br/>
+<hr/>
+
+<!-- ===================== SNAKE CONTRIBUTION ===================== -->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+
+  <!-- 🔴 DO NOT CHANGE THIS (output branch required) -->
+  <img alt="snake eating my contributions" 
+       src="https://raw.githubusercontent.com/k-arsyn/k-arsyn/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+
+<div align="center">
+  <!-- 🔴 USERNAME ALREADY SET -->
+  <img width="390" 
+       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=k-arsyn&count_private=true&theme=react&border_radius=10" />
+
+  <img width="390" 
+       src="https://github-readme-stats-salesp07.vercel.app/api?username=k-arsyn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="325" 
+       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=k-arsyn&layout=compact&theme=react&border_radius=10" />
+</div>
+
+<br/>
+<hr/>
+
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+<h2>🌐 Connect with me</h2>
+
+<!-- ===================== CODING PROFILES ===================== -->
+
+<!-- 🔴 ADD / CHANGE LINKS BELOW -->
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram--red" />
+</a>
+
+<a href="https://www.codechef.com/users/kartikeya28_12" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef--brown" />
+</a>
+
+<a href="https://codeforces.com/profile/kartikeya_sen" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces--blue" />
+</a>
+
+<a href="https://leetcode.com/u/k-arsyn28/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode--orange" />
+</a>
